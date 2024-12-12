@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|d:\\cursos\\react\\pract\\nueva carpeta\\todoapi\\todoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73D75772-357B-4DE6-ACCA-A6276CD85D4D}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 298,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoApi.csproj",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+              "RelativeDocumentMoniker": "ToDoApi\\ToDoApi.csproj",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+              "RelativeToolTip": "ToDoApi\\ToDoApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T17:21:39.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoApi.http",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\ToDoApi.http",
+              "RelativeDocumentMoniker": "ToDoApi\\ToDoApi.http",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\ToDoApi.http",
+              "RelativeToolTip": "ToDoApi\\ToDoApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-11T15:58:29.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApi\\appsettings.json",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\appsettings.json",
+              "RelativeToolTip": "ToDoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T16:00:37.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\ToDo.cs",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Models\\ToDo.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:58:25.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Models\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\ToDoDbContext.cs",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Models\\ToDoDbContext.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\ToDoDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:58:13.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Program.cs",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Program.cs",
+              "RelativeToolTip": "ToDoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:21:47.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Controllers\\ToDoController.cs",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoApi\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:21:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ToDoApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Cursos\\REACT\\pract\\Nueva carpeta\\ToDoApi\\ToDoApi\\appsettings.Development.json",
+              "RelativeToolTip": "ToDoApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:21:04.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
